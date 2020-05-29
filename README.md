@@ -1,2 +1,2 @@
 # Applied-Data-Science
-Coursera course work
+Applied Data Science coursework repository
